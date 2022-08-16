@@ -1,0 +1,15 @@
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\bin\Debug\net6.0\task23dz.exe
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\bin\Debug\net6.0\task23dz.deps.json
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\bin\Debug\net6.0\task23dz.runtimeconfig.json
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\bin\Debug\net6.0\task23dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\bin\Debug\net6.0\task23dz.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.csproj.AssemblyReference.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.AssemblyInfoInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.AssemblyInfo.cs
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.csproj.CoreCompileInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\refint\task23dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\task23dz.genruntimeconfig.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task23dz\obj\Debug\net6.0\ref\task23dz.dll

@@ -1,0 +1,15 @@
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.csproj.AssemblyReference.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.AssemblyInfoInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.AssemblyInfo.cs
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.csproj.CoreCompileInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\bin\Debug\net6.0\task19dz.exe
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\bin\Debug\net6.0\task19dz.deps.json
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\bin\Debug\net6.0\task19dz.runtimeconfig.json
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\bin\Debug\net6.0\task19dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\bin\Debug\net6.0\task19dz.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\refint\task19dz.dll
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\task19dz.genruntimeconfig.cache
+C:\Users\sbond\Desktop\gb\2826\seminar3\task19dz\obj\Debug\net6.0\ref\task19dz.dll
